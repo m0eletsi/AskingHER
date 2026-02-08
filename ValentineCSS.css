@@ -1,0 +1,30 @@
+.blamVal {
+    background-color: rgba(7, 109, 150, 0.89);
+    text-align: center;
+}
+.bNo {
+    background-color: #97322D;
+}
+
+.bYes {
+    background-color: #FFE4A1;
+}
+
+.blamNo {
+    background-color: rgba(1, 66, 1, 0.541);
+    text-align: center;
+}
+
+.blamYes {
+    background-color: rgba(8, 87, 167, 0.521);
+    text-align: center;
+}
+
+.blamStop {
+    background-color: rgba(136, 0, 0, 0.418);
+    text-align: center;
+}
+ 
+.heh {
+    padding: 50px;
+}
